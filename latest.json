@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "notes": "Primera versión para Linux Debian/Ubuntu 1.0.4🐧",
-  "pub_date": "2025-05-21T14:37:00Z",
+  "version": "1.0.5",
+  "notes": "Primera versión para Linux Debian/Ubuntu 1.0.5🐧",
+  "pub_date": "2025-05-22T04:36:00Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbEV3TXdYVmNhekFVTWp1UnNuclplaVlpZUcwdlcvY25QQTFlbHNMMHVudkVUVmZmbk82VnFIVEtEZUh2clRkNThrL21zb3RnYVVDQmxmYWhDUEdsZjh3eUlnbm9QeFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3ODkxMTY0CWZpbGU6bWVkaWEtcGxheWVyLWFwcF8xLjAuNF9hbWQ2NC5kZWIKbDJYUWlCaTVjYzRNaTJaRy9KQS9Gby8rRGo3UXhBbXdJNG1YNVY5dHRNcmkyaHZCK0pKYnBhcE1IbVpaNGZmTVNBKzNxVC9uRE1nZnFSOXBDSFVWQkE9PQo=",
-      "url": "https://juniorpacheco.github.io/media-player-app-updates/media-player-app_1.0.4_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbEV3TXdYVmNhekFCeDA3Z2VyUDdrMWo5Q2NnRmxwckVCTk44dUNXR1lzTHEreDhNN3pHbys4VENQL21tWEFPZGc4WVlxQXZIcGZwamgrU09vUTB0MHJvd2xYSW1mcEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3ODkxNjM4CWZpbGU6bWVkaWEtcGxheWVyLWFwcF8xLjAuNV9hbWQ2NC5kZWIKS3lmcGlMc1BHeVNkdWFaQ2pQNTY4clh2bFlaS2s1TmRKQzdBNzhYOVBSY1dtSkpkR2Y1bEtlTkdmWjNxUTNIV2dtaklWWm5aTnRCcTZlVmRmaHNpQVE9PQo=",
+      "url": "https://juniorpacheco.github.io/media-player-app-updates/media-player-app_1.0.5_amd64.deb"
     }
   }
 }
