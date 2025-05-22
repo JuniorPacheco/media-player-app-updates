@@ -4,8 +4,8 @@
   "pub_date": "2025-05-21T12:00:00Z",
   "platforms": {
     "linux-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbEV3TXdYVmNhekZkbFFPamFsRHZ2dlFYdUoxZ0gzMk9rdG1mV2ZwZTFnRmIwZGVJQ09VUDlHZ3pFWFc4aHpuR2psQkE3WDZkNENPc0dvTTRWRU1PRjlnV3VteE9lSFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3ODg2OTcwCWZpbGU6bWVkaWEtcGxheWVyLWFwcF8xLjAuMV9hbWQ2NC5kZWIKOFBCSXk5bzB6WkUvbGJCdXFWQ2ZWVHk0QUY3aWtrMEJydnE1NHYycDNsVXRJUTZUSU03Q0JDS3dUdUE5aDFsNXhYUWhOVmtwKzcyK0hldDNLd21oQVE9PQo=",
-      "url": "https://juniorpacheco.github.io/media-player-app-updates/media-player-app_1.0.1_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbEV3TXdYVmNhekpPcWwrNUhoMGdVa0pKZnZ1YkkvY3NTbnY4QWpNMDZGdWh4YjRMVWFRT0o2WFNZSERvQy93M3N6ZmZNWWpWZi84M1IyNTA4Y1ZwZU83L2hubjJMZlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3ODg3NTIyCWZpbGU6bWVkaWEtcGxheWVyLWFwcF8xLjAuMl9hbWQ2NC5kZWIKVDFlY2pzenBzTEFlK0hPWVpQYnpCalZBRllDNUtuL0dNYzVGdFpRME01ZVp3UTZtY2V2NHdBZ1ZDbGExWU5MZnJFcy9QQitJS21VRGRqNU1sYVl6REE9PQo=",
+      "url": "https://juniorpacheco.github.io/media-player-app-updates/media-player-app_1.0.2_amd64.deb"
     }
   }
 }
