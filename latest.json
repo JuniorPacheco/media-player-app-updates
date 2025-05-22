@@ -5,7 +5,7 @@
   "platforms": {
     "linux-deb": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR25SemNEVFpCdFpHaVNnaUxyYkNsUHJyWWFoRm42N2FIWWF0TFRkMHhLWWZzWTJKSEU2MGtPb3V2dmp0MG5XcEkvc0g3enRVR1J6V3Q4bEQrai9HNytUOEpySGJHVUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQ3ODYxMDI2CWZpbGU6bWVkaWEtcGxheWVyLWFwcF8xLjAuMF9hbWQ2NC5kZWIKOG9qd2xmZnhjZ1hNMDA2eTRIUnVRdE53NHBFT1RCQm82M1I2YTdid1NUSWxZSXBrU3h3NHpyaE1YQThEMWV4cW9kZ2wvak1yK29qQ3lFa0xLbG9nRHc9PQo=",
-      "url": "https://JuniorPacheco.github.io/media-player-app-updates/media-player-app_1.0.0_amd64.deb"
+      "url": "https://juniorpacheco.github.io/media-player-app-updates/media-player-app_1.0.0_amd64.deb"
     }
   }
 }
